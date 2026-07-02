@@ -1,0 +1,10 @@
+name = "DeltaForce_Gunplay";
+picture = "";
+actionName = "";
+action = "";
+description = "";
+author = "Blubber";
+authorID = "0";
+version = "1.0";
+overview = "";
+overviewPicture = "";
